@@ -1,0 +1,37 @@
+M S Dhoni
+
+Personal Information :
+
+Born: Jul 07, 1981 (41 years) 
+Birth Place: Ranchi, Bihar (now Jharkhand) 
+Role: WK-Batsman 
+Batting Style: Right Handed Bat 
+Bowling Style: Right-arm medium 
+
+
+Batting Career Summary:
+
+		M		Inn		NO		Runs		HS		Avg		BF		SR		100		200		50		4s		6s		
+
+Test		90		144		16		4876		224		38.09		8248		59.12		6		1		33		544		78		
+
+ODI		350		297		84		10773		183		50.58		12303		87.56		10		0		73		826		229		
+
+T20I		98		85		42		1617		56		37.6		1282		126.13	0		0		2		116		52		
+
+IPL		234		206		79		4978		84		39.2		3682		135.2		0		0		24		346		229		
+
+
+Bowling Career Summary:
+
+		M		Inn		B		Runs		Wkts		BBI		BBM		Econ		Avg		SR		5W		10W		
+
+Test		90		7		96		67		0		0/1		0/1		4.19		0.0		0.0		0		0		
+
+ODI		350		2		36		31		1		1/14		1/14		5.17		31.0		36.0		0		0		
+
+T20I		98		-		-		-		-		-		-		-		-		-		-		-		
+
+IPL		234		-		-		-		-		-		-		-		-		-		-		-		
+
+
